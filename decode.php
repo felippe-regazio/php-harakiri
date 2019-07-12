@@ -14,8 +14,8 @@
 	 *
 	 *	4. the eval() generated $__ array will be executed by another eval, but this
 	 *	timing passing through some functions
-     *
-     *  so lets assume we have the $__ declared with eval() and lets proceed:
+     	 *
+     	 *  so lets assume we have the $__ declared with eval() and lets proceed:
 	 */
 	$__ =["=","s","T","K","f","R","C","K","r","5","W","a","s","5","W","d"];
 
