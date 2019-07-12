@@ -3,6 +3,7 @@
 An ""obfuscated"" php code that makes the script file deletes itself when executed
 
 When any script reach this code *(at index.php)*, the script file will delete itself.
+
 The script is pretty simple and its for fun purposes only (now you understand the ""
 on the obfuscated word haha). 
 
