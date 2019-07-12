@@ -1,4 +1,4 @@
-# php-harakiri
+# PHP HARA-KIRI
 
 An ""obfuscated"" php code that makes the script file deletes itself when executed
 
